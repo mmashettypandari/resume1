@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my resume</title>
+</head>
+<body><img width="200" src="https://scontent.fhyd11-1.fna.fbcdn.net/v/t1.6435-9/93049537_218327919398496_4152650625479344128_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=mJ9mtpihF30Q7kNvgFF0mff&_nc_ht=scontent.fhyd11-1.fna&oh=00_AYCg2WjxupyWrfHZnBrEtePdJm3X0iiZikhbXgPXPAf0Yg&oe=66C1F1C1" alt="mashettypandari"
+
+
+ <p></p><h3> MASHETTY PANDARI</h3></p>
+
+<P><i>frentend developer </i></P>
+<hr>
+<!--Header ends-->
+
+    <h2>Education</h2>
+    <table border="">
+<tr>
+<th>course</th>
+<th>instutute</th>
+<th>year</th>
+<th>result</th>
+</tr>
+<tr>
+    <td>B.tech</td>
+    <td>Ellenki college of engg &technology</td>
+    <td>2023</td>
+    <td>65%</td>
+</tr>
+<tr>
+    <td>diploma</td>
+    <td>ssgovt polytechnic</td>
+    <td>2020</td>
+    <td>75%</td>
+</tr>
+
+<tr>
+
+    <td>ssc</td>
+    <td>ZP High school</td>
+    <td>2017</td>
+    <td>83%</td>
+</tr>
+</table>
+<!---Header ends-->
+<h2>Internship</h2>
+<P><ul>
+    <li>web development intern  in Nareh IT</li>
+    </ul></p>
+<h2>projects</h2>
+<ul><li>
+         <p><h4>Web development project :</h4> </p>
+        <ul><li>Created responsive e-commerce site with React frontend, Node.js backend, MongoDB database, Stripe API integration, and AWS deployment.
+            
+        </li>
+</ul>
+
+
+         </li></ul>     
+
+         
+    </li>
+</ul>
+<h2>skills</h2>
+<ul>
+    <li><p>Customize for Relevance: Tailor each resume to highlight skills and experiences most relevant to the job you're applying for.</p>
+<li><P>Highlight Achievements: Use quantifiable achievements and action verbs to showcase your impact in previous roles.
+<li><p>Emphasize Skills: Clearly list technical and soft skills that demonstrate your suitability for the position, ensuring clarity and readability.
+
+
+
+</p></li>
+</P></li>
+</li></ul>
+<hr>
+<h2>Connect with me</h2>
+<p>Email:<a href="mashettypandari@gmail.com">mashettypandari@gmail.com</a> </p>
+<p>Phone:<a href="6302241173">6302241173</a></p>
+
+ </body>
+ 
+ 
+
+</html>
+
+
